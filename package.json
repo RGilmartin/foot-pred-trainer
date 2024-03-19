@@ -1,0 +1,15 @@
+{
+  "name": "foot-pred-trainer",
+  "version": "1.0.0",
+  "description": "code to train model for football play predictor website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "convert-csv-to-json": "^2.33.0"
+  }
+}

@@ -1,0 +1,2610 @@
+[
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -36,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 8,
+      "YARD LN": -38,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 2,
+      "YARD LN": -44,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 7,
+      "YARD LN": -28,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -44,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 48,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 1,
+      "YARD LN": 45,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 40,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 15,
+      "PLAY TYPE": "",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 15,
+      "YARD LN": 20,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 13,
+      "YARD LN": 18,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 13,
+      "YARD LN": 18,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 4,
+      "DIST": 9,
+      "YARD LN": 14,
+      "PLAY TYPE": "",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 7,
+      "YARD LN": 7,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 2,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -20,
+      "PLAY TYPE": "",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 15,
+      "YARD LN": -15,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 15,
+      "YARD LN": -15,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 9,
+      "YARD LN": -21,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -34,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 6,
+      "YARD LN": -38,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 48,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 6,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 6,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 15,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 4,
+      "YARD LN": 4,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 1,
+      "YARD LN": 1,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": -24,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 26,
+      "YARD LN": -9,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": 50,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 7,
+      "YARD LN": 50,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -16,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 5,
+      "YARD LN": -21,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 4,
+      "YARD LN": -22,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -27,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -30,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -37,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 1,
+      "YARD LN": -45,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -48,
+      "PLAY TYPE": "",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 15,
+      "YARD LN": -43,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 39,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 31,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -35,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 9,
+      "YARD LN": -36,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 8,
+      "YARD LN": -38,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 22,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 12,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -13,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 9,
+      "YARD LN": -14,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 9,
+      "YARD LN": -14,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 4,
+      "DIST": 9,
+      "YARD LN": -14,
+      "PLAY TYPE": "",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 32,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 2,
+      "YARD LN": 2,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 3,
+      "YARD LN": 3,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -5,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 3,
+      "YARD LN": -12,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -29,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -32,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 47,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 7,
+      "YARD LN": 50,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 6,
+      "YARD LN": 6,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 5,
+      "YARD LN": 5,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 48,
+      "YARD LN": 2,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -39,
+      "PLAY TYPE": "",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 15,
+      "YARD LN": -34,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -42,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 43,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": 43,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 33,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 5,
+      "YARD LN": 28,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 13,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": 13,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 10,
+      "YARD LN": 13,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -16,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -30,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -30,
+      "PLAY TYPE": "",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -31,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 3,
+      "YARD LN": -38,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 38,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 9,
+      "YARD LN": 37,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 3,
+      "YARD LN": 31,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 4,
+      "DIST": 5,
+      "YARD LN": 33,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -31,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 8,
+      "YARD LN": -33,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 11,
+      "YARD LN": -30,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -38,
+      "PLAY TYPE": "",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 15,
+      "YARD LN": -33,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 6,
+      "YARD LN": -42,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 3,
+      "YARD LN": -45,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 8,
+      "YARD LN": -40,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 47,
+      "PLAY TYPE": "",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -48,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 8,
+      "YARD LN": 46,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 9,
+      "YARD LN": 46,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -33,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -36,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -46,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 46,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 3,
+      "YARD LN": 38,
+      "PLAY TYPE": "",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 8,
+      "YARD LN": 42,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 31,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 19,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 6,
+      "YARD LN": 15,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -23,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -23,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 9,
+      "YARD LN": -24,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -36,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": -35,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 26,
+      "PLAY TYPE": "",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 26,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 25,
+      "YARD LN": 41,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -41,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": -49,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 31,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": 31,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 10,
+      "YARD LN": 31,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 19,
+      "YARD LN": -16,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 8,
+      "YARD LN": -27,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -38,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 1,
+      "YARD LN": -47,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 44,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 30,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 24,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 16,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -27,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": -26,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -38,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -38,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 16,
+      "YARD LN": -32,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -38,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 12,
+      "YARD LN": -36,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 4,
+      "YARD LN": -44,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 4,
+      "DIST": 5,
+      "YARD LN": -43,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "",
+      "DN": "",
+      "DIST": "",
+      "YARD LN": "",
+      "PLAY TYPE": "",
+      "QTR": ""
+    },
+    {
+      "ODK": "",
+      "DN": "",
+      "DIST": "",
+      "YARD LN": "",
+      "PLAY TYPE": "",
+      "QTR": ""
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": 0,
+      "YARD LN": -40,
+      "PLAY TYPE": "KO",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -30,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 9,
+      "YARD LN": -31,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -43,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 13,
+      "YARD LN": -40,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 2,
+      "YARD LN": 49,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 46,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 8,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 34,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 5,
+      "YARD LN": 29,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 1,
+      "YARD LN": 25,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 19,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": 16,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 4,
+      "YARD LN": 4,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt. Block",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -22,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": -28,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 43,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt.",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -25,
+      "PLAY TYPE": "KO",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -46,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -49,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 42,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 29,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 8,
+      "YARD LN": 27,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 12,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 1,
+      "YARD LN": 1,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt. Block",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -46,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 46,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 1,
+      "YARD LN": 45,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 38,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 27,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 12,
+      "YARD LN": 29,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 9,
+      "YARD LN": 26,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 18,
+      "YARD LN": 35,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 19,
+      "YARD LN": 36,
+      "PLAY TYPE": "Punt",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -2,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -14,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -17,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Pass",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 34,
+      "PLAY TYPE": "Run",
+      "QTR": 1
+    },
+    {
+      "ODK": "",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 28,
+      "PLAY TYPE": "",
+      "QTR": 1
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 28,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 29,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 16,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": 16,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 11,
+      "YARD LN": 17,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 8,
+      "YARD LN": 14,
+      "PLAY TYPE": "FG",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -42,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 1,
+      "YARD LN": 49,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 38,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 25,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 3,
+      "YARD LN": 18,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 1,
+      "YARD LN": 16,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 6,
+      "YARD LN": 6,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 4,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt. Block",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -37,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": 50,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 32,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 20,
+      "YARD LN": 42,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 14,
+      "YARD LN": 36,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 12,
+      "YARD LN": 34,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 4,
+      "DIST": 2,
+      "YARD LN": 24,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 18,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 42,
+      "YARD LN": 8,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 35,
+      "YARD LN": 1,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt.",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -28,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -31,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 7,
+      "YARD LN": -31,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "",
+      "DN": 4,
+      "DIST": 9,
+      "YARD LN": -29,
+      "PLAY TYPE": "",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 10,
+      "YARD LN": -31,
+      "PLAY TYPE": "Punt Rec",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -35,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 1,
+      "YARD LN": -44,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -47,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 11,
+      "YARD LN": -46,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 11,
+      "YARD LN": -46,
+      "PLAY TYPE": "Punt",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -48,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 42,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 16,
+      "YARD LN": 48,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": 43,
+      "PLAY TYPE": "Run",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 12,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "D",
+      "DN": 4,
+      "DIST": 12,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 2
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -39,
+      "PLAY TYPE": "",
+      "QTR": 2
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -32,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 3,
+      "YARD LN": -39,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -48,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 46,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 42,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 8,
+      "YARD LN": 40,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 4,
+      "YARD LN": 36,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 4,
+      "DIST": 1,
+      "YARD LN": 33,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 15,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": 16,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 2,
+      "YARD LN": 2,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt.",
+      "QTR": 3
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -27,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 24,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 16,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 10,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 6,
+      "YARD LN": 6,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 3,
+      "YARD LN": 3,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 13,
+      "YARD LN": 13,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 13,
+      "YARD LN": 13,
+      "PLAY TYPE": "FG",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 44,
+      "YARD LN": 6,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": 3,
+      "PLAY TYPE": "Extra Pt.",
+      "QTR": 3
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -23,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -26,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 4,
+      "YARD LN": -29,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 44,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -43,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": -46,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 10,
+      "YARD LN": -43,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 14,
+      "YARD LN": -39,
+      "PLAY TYPE": "Punt",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -16,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": -24,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 2,
+      "YARD LN": -24,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -26,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -41,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": -47,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 47,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": 41,
+      "PLAY TYPE": "Pass",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 36,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 7,
+      "YARD LN": 33,
+      "PLAY TYPE": "Run",
+      "QTR": 3
+    },
+    {
+      "ODK": "",
+      "DN": "",
+      "DIST": "",
+      "YARD LN": "",
+      "PLAY TYPE": "",
+      "QTR": ""
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 7,
+      "YARD LN": 33,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 20,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 11,
+      "YARD LN": 21,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 11,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 2,
+      "YARD LN": 3,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": 3,
+      "YARD LN": 3,
+      "PLAY TYPE": "2 Pt. Defend",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -36,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 8,
+      "YARD LN": -38,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 2,
+      "YARD LN": -44,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 4,
+      "DIST": 1,
+      "YARD LN": -45,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 44,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 39,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 5,
+      "YARD LN": 34,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 1,
+      "YARD LN": 30,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 11,
+      "YARD LN": 35,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 23,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 23,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": 23,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 10,
+      "YARD LN": 23,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": 6,
+      "YARD LN": 19,
+      "PLAY TYPE": "FG Block",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -25,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 4,
+      "YARD LN": -31,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 2,
+      "YARD LN": -33,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 4,
+      "DIST": 1,
+      "YARD LN": -34,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -40,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 48,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -36,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 46,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 6,
+      "YARD LN": 42,
+      "PLAY TYPE": "",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 18,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": 18,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "D",
+      "DN": 3,
+      "DIST": 10,
+      "YARD LN": 18,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 4,
+      "DIST": "",
+      "YARD LN": 9,
+      "PLAY TYPE": "FG Block",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": 0,
+      "YARD LN": -40,
+      "PLAY TYPE": "KO Rec",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": -42,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 2,
+      "DIST": 10,
+      "YARD LN": -42,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 3,
+      "DIST": 12,
+      "YARD LN": -40,
+      "PLAY TYPE": "Run",
+      "QTR": 4
+    },
+    {
+      "ODK": "O",
+      "DN": 4,
+      "DIST": 9,
+      "YARD LN": -43,
+      "PLAY TYPE": "Pass",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 1,
+      "DIST": 10,
+      "YARD LN": 44,
+      "PLAY TYPE": "FG",
+      "QTR": 4
+    },
+    {
+      "ODK": "K",
+      "DN": 0,
+      "DIST": "",
+      "YARD LN": -40,
+      "PLAY TYPE": "",
+      "QTR": 4
+    }
+  ]
