@@ -1,6 +1,6 @@
-const data = require("./data.json");
-const brain = require("brainjs");
-var fs = require("fs");
+import { writeFile } from 'fs';
+import data from './data.json' with {type: "json"};
+import brain from "brain.js";
 
 const net = new brain.NeuralNetwork();
 
@@ -10,6 +10,7 @@ function getTrainingTestingData(wholeData, trainingPercentage) {
   let testIndecies = [];
   let trainData = [];
   let testData = [];
+  let rand;
 
   while (trainIndecies.length < wholeData.length * trainingPercentage) {
     rand = Math.floor(Math.random() * wholeData.length);
@@ -56,12 +57,12 @@ for (let i = 0; i < trainableData.length; i++) {
   trainableData[i].input.DN = scale(trainableData[i].input.DN, [1, 4], [0, 1]);
   trainableData[i].input.YARDLN = scale(
     trainableData[i].input.YARDLN,
-    [1, 100],
+    [-50, 50],
     [0, 1],
   );
   trainableData[i].input.DIST = scale(
     trainableData[i].input.DIST,
-    [-100, 100],
+    [0, 100],
     [0, 1],
   );
 }
@@ -69,5 +70,5 @@ for (let i = 0; i < trainableData.length; i++) {
 const [trainData, testData] = getTrainingTestingData(trainableData, 0.9);
 
 console.log(net.train(trainData));
-json = net.toJSON();
-fs.writeFile("model.json", JSON.stringify(json));
+let json = net.toJSON();
+writeFile("model.json", JSON.stringify(json), (err) => {console.log(err)});

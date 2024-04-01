@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
-    "brainjs": "^0.7.4",
+    "brain.js": "^2.0.0-beta.23",
     "convert-csv-to-json": "^2.33.0"
   }
 }
